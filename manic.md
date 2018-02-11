@@ -15,7 +15,7 @@ some come with complimentary Starbucks,
 some come with /"It's complicated,"/
 and all are shipped to _anywere_ in the world.
 
-so is this out justice v2.0.0-rc1?
+so is this our justice v2.0.0-rc1?
 days spent blurry and 𝓬𝓱𝓪𝓸𝓽𝓲𝓬;
 hoping, praying, that one day,
 maybe, just maybe,
